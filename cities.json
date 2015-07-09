@@ -48,7 +48,12 @@
         "state": "Karnataka", 
         "name": "Afzalpur", 
         "class": "3"
-    },
+    }, 
+    {
+        "state": "Tripura", 
+        "name": "Agartala", 
+        "class": "1"
+    }, 
     {
         "state": "Uttar Pradesh", 
         "name": "Agra", 
@@ -313,7 +318,12 @@
         "state": "West Bengal", 
         "name": "Balurghat", 
         "class": "1"
-    },
+    }, 
+    {
+        "state": "Karnataka", 
+        "name": "Bengaluru", 
+        "class": "1"
+    }, 
     {
         "state": "West Bengal", 
         "name": "Bankura", 
@@ -488,7 +498,17 @@
         "state": "Telangana", 
         "name": "Bhongir", 
         "class": "2"
-    },
+    }, 
+    {
+        "state": "Madhya Pradesh", 
+        "name": "Bhopal", 
+        "class": "1"
+    }, 
+    {
+        "state": "Odisha", 
+        "name": "Bhubaneswar", 
+        "class": "1"
+    }, 
     {
         "state": "Gujarat", 
         "name": "Bhuj", 
@@ -551,7 +571,7 @@
     }, 
     {
         "state": "Chandigarh", 
-        "name": "Chandigarh",
+        "name": "Chandigarh", 
         "class": "1"
     }, 
     {
@@ -573,7 +593,12 @@
         "state": "Kerala", 
         "name": "Changanassery", 
         "class": "3"
-    },
+    }, 
+    {
+        "state": "Tamil Nadu", 
+        "name": "Chennai", 
+        "class": "1"
+    }, 
     {
         "state": "Kerala", 
         "name": "Cherthala", 
@@ -958,7 +983,12 @@
         "state": "Bihar", 
         "name": "Hajipur", 
         "class": "1"
-    },
+    }, 
+    {
+        "state": "Uttarakhand", 
+        "name": "Haldwani", 
+        "class": "1"
+    }, 
     {
         "state": "Haryana", 
         "name": "Hansi", 
@@ -1003,12 +1033,27 @@
         "state": "West Bengal", 
         "name": "Hugli-Chinsurah", 
         "class": "1"
-    },
+    }, 
+    {
+        "state": "Telangana", 
+        "name": "Hyderabad", 
+        "class": "1"
+    }, 
+    {
+        "state": "Uttar Pradesh", 
+        "name": "Hardoi", 
+        "class": "2"
+    }, 
     {
         "state": "Maharashtra", 
         "name": "Ichalkaranji", 
         "class": "1"
-    },
+    }, 
+    {
+        "state": "Manipur", 
+        "name": "Imphal", 
+        "class": "1"
+    }, 
     {
         "state": "Madhya Pradesh", 
         "name": "Indore", 
@@ -1043,7 +1088,12 @@
         "state": "Telangana", 
         "name": "Jagtial", 
         "class": "2"
-    },
+    }, 
+    {
+        "state": "Rajasthan", 
+        "name": "Jaipur", 
+        "class": "1"
+    }, 
     {
         "state": "Punjab", 
         "name": "Jalandhar Cantt.", 
@@ -1358,7 +1408,12 @@
         "state": "Kerala", 
         "name": "Kodungallur", 
         "class": "3"
-    },
+    }, 
+    {
+        "state": "Nagaland", 
+        "name": "Kohima", 
+        "class": "2"
+    }, 
     {
         "state": "Karnataka", 
         "name": "Kolar", 
@@ -1568,7 +1623,12 @@
         "state": "Rajasthan", 
         "name": "Losal", 
         "class": "3"
-    },
+    }, 
+    {
+        "state": "Uttar Pradesh", 
+        "name": "Lucknow", 
+        "class": "1"
+    }, 
     {
         "state": "Punjab", 
         "name": "Ludhiana", 
@@ -2263,7 +2323,12 @@
         "state": "Maharashtra", 
         "name": "Murtijapur", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Madhya Pradesh", 
+        "name": "Murwara", 
+        "class": "1"
+    }, 
     {
         "state": "Jharkhand", 
         "name": "Musabani", 
@@ -2653,7 +2718,12 @@
         "state": "Madhya Pradesh", 
         "name": "Nepanagar", 
         "class": "3"
-    },
+    }, 
+    {
+        "state": "Delhi", 
+        "name": "New Delhi", 
+        "class": "1"
+    }, 
     {
         "state": "Tamil Nadu", 
         "name": "Neyveli (TS)", 
@@ -2933,7 +3003,12 @@
         "state": "Tamil Nadu", 
         "name": "Panagudi", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Goa", 
+        "name": "Panaji", 
+        "class": "6"
+    }, 
     {
         "state": "Kerala", 
         "name": "Panamattom", 
@@ -3098,7 +3173,12 @@
         "state": "Punjab", 
         "name": "Patiala", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Bihar", 
+        "name": "Patna", 
+        "class": "6"
+    }, 
     {
         "state": "Punjab", 
         "name": "Pattran", 
@@ -3331,7 +3411,7 @@
     }, 
     {
         "state": "Puducherry", 
-        "name": "Puducherry",
+        "name": "Pondicherry", 
         "class": "6"
     }, 
     {
@@ -3361,7 +3441,7 @@
     }, 
     {
         "state": "Andaman and Nicobar Islands", 
-        "name": "Andaman and Nicobar Islands",
+        "name": "Port Blair", 
         "class": "6"
     }, 
     {
@@ -3583,7 +3663,12 @@
         "state": "Punjab", 
         "name": "Raikot", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Chhattisgarh", 
+        "name": "Raipur", 
+        "class": "6"
+    }, 
     {
         "state": "Odisha", 
         "name": "Rairangpur", 
@@ -3788,7 +3873,12 @@
         "state": "Gujarat", 
         "name": "Ranavav", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Jharkhand", 
+        "name": "Ranchi", 
+        "class": "6"
+    }, 
     {
         "state": "Assam", 
         "name": "Rangia", 
@@ -4543,7 +4633,17 @@
         "state": "Uttar Pradesh", 
         "name": "Shikohabad", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Meghalaya", 
+        "name": "Shillong", 
+        "class": "6"
+    }, 
+    {
+        "state": "Himachal Pradesh", 
+        "name": "Shimla", 
+        "class": "6"
+    }, 
     {
         "state": "Karnataka", 
         "name": "Shivamogga", 
@@ -4701,7 +4801,7 @@
     }, 
     {
         "state": "Dadra and Nagar Haveli", 
-        "name": "Dadra and Nagar Haveli",
+        "name": "Silvassa", 
         "class": "6"
     }, 
     {
@@ -4898,7 +4998,12 @@
         "state": "Andhra Pradesh", 
         "name": "Srikalahasti", 
         "class": "6"
-    },
+    }, 
+    {
+        "state": "Jammu and Kashmir", 
+        "name": "Srinagar", 
+        "class": "6"
+    }, 
     {
         "state": "Uttarakhand", 
         "name": "Srinagar", 

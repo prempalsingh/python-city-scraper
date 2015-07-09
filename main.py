@@ -1,4 +1,3 @@
-__author__ = 'prempal'
 from bs4 import BeautifulSoup
 import requests
 import json
@@ -17,7 +16,14 @@ for table in soup.findAll('table', {"class": "wikitable sortable"}):
         cells = row.findAll("td")
         a = []
         for x in cells:
-            a.append(x.string)
+
+            if x.string is None:
+                try:
+                    a.append(x.a.string)
+                except:
+                    a.append(x.string)
+            else:
+                a.append(x.string)
         q = {}
         if len(a) is not 0:
             q['name'] = str(a[0])
@@ -28,6 +34,7 @@ for table in soup.findAll('table', {"class": "wikitable sortable"}):
                 q['class'] = classes[str(a[4]).split(" ")[1]]
 
             cities.append(q)
+            #print "==========================="
 
 with open('cities.json', 'w') as fp:
     json.dump(cities, fp, indent=4)
